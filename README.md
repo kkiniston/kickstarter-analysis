@@ -22,6 +22,7 @@ Preforming analysis on Kickstarter data to uncover trends
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+  First organizing the Kickstarter data set utalizing a PivotTable we are able to manupulate the specific data that we want to display. In this case for Louise we want to first filter the data set based on the Parent Category type *Theater* and our year. Focusing on the count of outcomes we can orgaize the table to show how well they compared in a month by month display. From this data we can see that the peak of successful campaigns were in the months of **May** and **June**. This trend is similarly followed in the grand total of campaigns showing us the more ideal time frame to run a more succesful campaign would be in the end of spring and early summer. This trend can be backed by an eagerness in the community to get out following colder weather which is why we see a similar trend in the fewer number of overall campaigns in the colder months. 
 
 ### Analysis of Outcomes Based on Goals
 
