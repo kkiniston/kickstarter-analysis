@@ -5,7 +5,7 @@ Preforming analysis on Kickstarter data to uncover trends
 ## Overview of Project
 
 ### Purpose
-  The purpose of this analysis was to help Louise's project campaign and better vizualize the data set provided in a more understandable fashion. Working with larger data sets can create an array of difficulties in understanding what the data is saying. Using Excel we are able simply organize and vizualize the data for Louise so she can easily see campaign outcomes compared to how well they succeeded and use those trends to build a better campaign. 
+  The purpose of this analysis was to help Louise's project campaign and better vizualize the data set provided in a more understandable fashion. Working with larger data sets can create an array of difficulties in understanding what the data is saying. Using Excel we are able simply organize and vizualize the data for Louise so she can easily see campaign outcomes compared to how well they succeeded and use those trends to build a stonger timeframe to goal ratio for future play campaigns. 
   Throughout this analyis multiple codes and vizual aids are used to breakdown the data so we can better compare how other campaigns faired in the alloted timeframe. Using:
   ```
   PivotTables, 
@@ -15,7 +15,8 @@ Preforming analysis on Kickstarter data to uncover trends
   ```
   ```
   SUM()
-      ```
+  ```
+  Functions, We are able to organize the data set on a line graph the data displayed showing the outcome of theater campaigns compared to their launch date and trends based on what outcomes resulted from a reported goal. 
   
 
 ## Analysis and Challenges
