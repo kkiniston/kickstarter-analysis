@@ -30,6 +30,7 @@ Preforming analysis on Kickstarter data to uncover trends
   
 
 ### Analysis of Outcomes Based on Goals
+	Organizing the data
 
 ### Challenges and Difficulties Encountered
 
